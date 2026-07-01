@@ -1,0 +1,9 @@
+.git
+.gitignore
+.env
+vendor/
+composer.lock
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
